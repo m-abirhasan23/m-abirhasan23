@@ -11,7 +11,7 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / SASS / REACT /NEXT JS / ASTRO JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m-abirhasn23) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamabir23) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m_abirhasan007/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m_abirhasan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/m-abirhasan23)
 
-[![Abir Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=m-abirhasn23)](https://github.com/m-abirhasn23/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-abirhasan23)](https://github.com/ryo-ma/github-profile-trophy)
 
