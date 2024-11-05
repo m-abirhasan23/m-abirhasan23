@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abir Hasan</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Junior Programmer At 🏨 Asian Technologies LTD</h3>
 
 
-![Abir Hasan 02](https://user-images.githubusercontent.com/126692834/229373152-ea235e03-56cf-4a8c-bbcf-f44ac78dc903.png)
+### GOALS IN 2024
 
-Hi, I'm Abir Hasan a Web Development Enthusiast Chittagong, Bangladesh. I Love Exploring the world of Web development, Really Interested in front-end development and UX design & Looking to collaborate on open-source projects
+#### 🎯 LEARN COMPLETE JAVA 
+#### 🎯 SQL 
+#### 🎯 1 JAVA PROJECT WITH SQL
+#### 🎯 100 PROBLEM SOLVE (CODEFORCE, LEETCODE,HACKERANK)
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / SASS / REACT /NEXT JS / ASTRO JS
 
-- 🔭 I’m currently working on this page.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m-abirhasn23) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamabir23) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m_abirhasan007/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m_abirhasan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/m-abirhasan23)
 
 
 
