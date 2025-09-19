@@ -2,12 +2,6 @@
 <h3 align="center">Junior Programmer At 🏨 Asian Technologies LTD</h3>
 
 
-### GOALS IN 2024
-
-#### 🎯 LEARN COMPLETE JAVA 
-#### 🎯 SQL 
-#### 🎯 1 JAVA PROJECT WITH SQL
-#### 🎯 100 PROBLEM SOLVE (CODEFORCE, LEETCODE,HACKERANK)
 
 
 
